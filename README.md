@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shivam8905
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on good projects
+SDE Intern @TECHstile | Problem Setter at iMOCHA | Ex-SDE Intern at Shaligram Infotech
 - 📫 How to reach me shivam.190180107015@gmail.com
 
 <!---
