@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam8905
-SDE Intern @TECHstile | Problem Setter at iMOCHA | Ex-SDE Intern at Shaligram Infotech
+SDE @TECHstile | Problem Setter at iMOCHA | Ex-SDE Intern at Shaligram Infotech
 - 📫 How to reach me shivam.190180107015@gmail.com
 
 <!---
