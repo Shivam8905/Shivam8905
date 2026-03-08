@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam8905
-SDE @TECHstile | Problem Setter at iMOCHA | Ex-SDE Intern at Shaligram Infotech
+SDE @ConnectAndHeal
 - 📫 How to reach me shivam.190180107015@gmail.com
 - **LinkedIn** https://www.linkedin.com/in/shivam2k23/
 
